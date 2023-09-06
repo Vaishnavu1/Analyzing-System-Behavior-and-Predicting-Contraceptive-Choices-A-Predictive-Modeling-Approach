@@ -1,1 +1,2 @@
 # Analyzing-System-Behavior-and-Predicting-Contraceptive-Choices-A-Predictive-Modeling-Approach
+This project is based on two problems. In these two predictive modeling project problems, linear regression and logistic regression techniques are used to solve different problems. The linear regression project problem aims to predict the portion of time CPUs run in user mode based on system attributes. The logistic regression project problem focuses on predicting contraceptive method use among married women in Indonesia using demographic and socio-economic characteristics.
